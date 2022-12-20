@@ -1,0 +1,102 @@
+<div class="col-lg-3 col-md-6 col-xs-12 mix a">
+    <div class="portfolio-item">
+        <div class="shot-item">
+            <div class="companyname">株式会社エーツー</div>
+        <img src="img/aaa/logo/c1.jpg" alt="" />
+        <div class="single-content">
+        <div class="fancy-table">
+          <div class="table-cell">
+            <div class="zoom-icon">
+            <a class="lightbox" href="img/aaa/job/c1.pdf"target="_blank"><i class="lni-zoom-in item-icon"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>               
+  </div>
+</div>
+<div class="col-lg-3 col-md-6 col-xs-12 mix b">
+    <div class="portfolio-item">
+        <div class="shot-item">
+            <div class="companyname">株式会社ケイシイシイ</div>
+        <img src="img/aaa/logo/c2.jpg" alt="" />
+        <div class="single-content">
+        <div class="fancy-table">
+          <div class="table-cell">
+            <div class="zoom-icon">
+            <a class="lightbox" href="img/aaa/job/c2.pdf"target="_blank"><i class="lni-zoom-in item-icon"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>               
+  </div>
+</div>
+<div class="col-lg-3 col-md-6 col-xs-12 mix c">
+    <div class="portfolio-item">
+        <div class="shot-item">
+            <div class="companyname">新英金属株式会社</div>
+        <img src="img/aaa/logo/c3.jpg" alt="" />
+        <div class="single-content">
+        <div class="fancy-table">
+          <div class="table-cell">
+            <div class="zoom-icon">
+            <a class="lightbox" href="img/aaa/job/c3.pdf"target="_blank"><i class="lni-zoom-in item-icon"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>               
+  </div>
+</div>
+<div class="col-lg-3 col-md-6 col-xs-12 mix a">
+    <div class="portfolio-item">
+        <div class="shot-item">
+            <div class="companyname">アイリスオーヤマ株式会社</div>
+        <img src="img/aaa/logo/c4.jpg" alt="" />
+        <div class="single-content">
+        <div class="fancy-table">
+          <div class="table-cell">
+            <div class="zoom-icon">
+            <a class="lightbox" href="img/aaa/job/c4.pdf"target="_blank"><i class="lni-zoom-in item-icon"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>               
+  </div>
+</div>
+<div class="col-lg-3 col-md-6 col-xs-12 mix a">
+    <div class="portfolio-item">
+        <div class="shot-item">
+            <div class="companyname">株式会社デンソーダイシン</div>
+        <img src="img/aaa/logo/c5.jpg" alt="" />
+        <div class="single-content">
+        <div class="fancy-table">
+          <div class="table-cell">
+            <div class="zoom-icon">
+            <a class="lightbox" href="img/aaa/job/c5.pdf"target="_blank"><i class="lni-zoom-in item-icon"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>               
+  </div>
+</div>
+<div class="col-lg-3 col-md-6 col-xs-12 mix b">
+    <div class="portfolio-item">
+        <div class="shot-item">
+            <div class="companyname">テクノハンズ株式会社</div>
+        <img src="img/aaa/logo/c6.jpg" alt="" />
+        <div class="single-content">
+        <div class="fancy-table">
+          <div class="table-cell">
+            <div class="zoom-icon">
+            <a class="lightbox" href="img/aaa/job/c6.pdf"target="_blank"><i class="lni-zoom-in item-icon"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>               
+  </div>
+</div>
